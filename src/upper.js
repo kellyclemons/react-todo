@@ -1,5 +1,5 @@
-function upper(name) {
+/*function upper(name) {
   return name.toUpperCase();
 }
 
-export default upper;
+export default upper; */
